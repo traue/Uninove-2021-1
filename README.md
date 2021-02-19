@@ -1,7 +1,39 @@
-![Logo-Uninove](http://traue.com.br/imgs/uninove_logo.jpeg)
-# Prof. Thiago Graziani Traue
+<p align="center">
+  <img src="http://traue.com.br/imgs/uninove_logo.jpeg" alt="Logo-Uninove" width="100px"/>
+  Universidade Nove de Julho
+</p>
 
-------------
 
-## Universidade Nove de Julho - Uninove
-### Repositório de disciplinas
+## Prof. Thiago Graziani Traue
+###  Repositório de disciplinas
+---
+
+
+- **Segunda**
+	- Manhã:
+	- Noite: 
+
+
+- **Terça**
+	- Manhã:
+	- Noite: 
+
+
+- **Quarta**
+	- Manhã:
+	- Noite: 
+
+
+- **Quinta**
+	- Manhã:
+	- Noite: 
+
+
+- **Sexta**
+	- Manhã:
+	- Noite: 
+
+
+
+----
+Quaisquer dúvidas, entrar em contato com o Prof., através do e-mail institucional thiago.traue@...
