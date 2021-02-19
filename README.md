@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="http://traue.com.br/imgs/uninove_logo.jpeg" alt="Logo-Uninove" width="100px"/>
+  <img src="http://traue.com.br/imgs/uninove_logo.jpeg" alt="Logo-Uninove" width="150px"/>
+  <br>
   Universidade Nove de Julho
 </p>
 
