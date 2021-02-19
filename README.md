@@ -4,37 +4,36 @@
   Universidade Nove de Julho
 </p>
 
-
 ## Prof. Thiago Graziani Traue
 ###  Repositório de disciplinas
 ---
 
-
 - **Segunda**
-	- Manhã:
-	- Noite: 
+	- Manhã: Aplicações Orientadas à Objetos
+	- Noite: Programação Avançada em Orientação à Objetos
 
 
 - **Terça**
-	- Manhã:
-	- Noite: 
+	- Manhã: Gerência de projetos em TI
+	- Noite: Aplicações Orientadas à Objetos
 
 
 - **Quarta**
-	- Manhã:
-	- Noite: 
+	- Manhã: Interação Humano-Computador
+	- Noite: Aplicações Orientadas à Objetos
 
 
 - **Quinta**
-	- Manhã:
-	- Noite: 
+	- Manhã: Programação Web
+	- Noite: Programação Visual
 
 
 - **Sexta**
-	- Manhã:
-	- Noite: 
-
+	- Manhã: Qualidade de Software
+	- Noite: Programação Avançada em Orientação à Objetos
 
 
 ----
+A orientação dos projetos é realizada via Google Drive. Você deve consultar o link de sua turma.
+
 Quaisquer dúvidas, entrar em contato com o Prof., através do e-mail institucional thiago.traue@...
