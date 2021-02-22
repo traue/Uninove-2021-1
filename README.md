@@ -9,8 +9,8 @@
 ---
 
 - **Segunda**
-	- Manhã: [Aplicações Orientadas à Objetos](https://github.com/traue/Uninove-2021-1/tree/main/segunda-manha "Repositório se segunda de manhã")
-	- Noite: Programação Avançada em Orientação à Objetos
+	- Manhã: [Aplicações Orientadas à Objetos](https://github.com/traue/Uninove-2021-1/tree/main/segunda-manha "Repositório de segunda de manhã")
+	- Noite: [Programação Avançada em Orientação à Objetos](https://github.com/traue/Uninove-2021-1/tree/main/segunda-noite "Repositório de segunda noite")
 
 
 - **Terça**
