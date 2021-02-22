@@ -1,1 +1,26 @@
 Preparação do ambiente de desenvolvimento da disciplina
+
+1. Verificar se você já possui o Java instalado na maquina
+   - Usuários Windows: Em painel de controle, verificar se há o ícone do Java
+   - Usuário MAC: Nas preferências de sistema, verificar se há o ícone do Java
+   - Usuário Linux: rodar no terminal "java -version" e verificar se já está instalado
+
+   --> Site para instalação: https://www.java.com/en/
+    --> Para usuário Linux, recomendo a instalação via terminal (vide: https://www.java.com/pt-BR/download/help/linux_x64_install.html)
+
+2. Instalar a JDK:
+ - Baixar de: https://www.oracle.com/br/java/technologies/javase-downloads.html
+
+
+3. Para essa disciplina, vamos utilizar o Netbeans.
+  Existem duas versões do Netbeans: 8.2 (última criada pela Oracle) e o Netbeans da fundação Apache
+  * Se você for utilizar o 8.2, faça o download da versão "Java EE", de https://netbeans.org/downloads/8.2/rc/
+  Se você for um usuário um pouco mais avançado, podes baixar o 12.2, de: https://netbeans.apache.org/download/index.html
+
+  --> A instalação é simples e não requer nenhuma grande intervenção do usuário
+  Se necessário, apenas localizar a instalação da JDK manualmente.
+
+
+
+
+------Paramos aqui, continuamos na semena vindoura ---
