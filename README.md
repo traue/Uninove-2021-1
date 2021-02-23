@@ -14,7 +14,7 @@
 
 
 - **Terça**
-	- Manhã: Gerência de projetos em TI
+	- Manhã: [Gerência de projetos em TI](https://github.com/traue/Uninove-2021-1/tree/main/terca-manha)
 	- Noite: Aplicações Orientadas à Objetos
 
 
