@@ -1,1 +1,28 @@
+
+Método de avaliação:
+  AV1 = (0,4 * A) + (0,6 * P) + Extra
+    A = Várias atividadezinhas de 4 ou 5 questões passadas ao final das aulas (forms) para serem desenvolvidas a semana seguinte
+    P = Provinha (uma ou duas)
+    Extra = até dois pontos para arredondar sua média AV1
+
+-------------------------------------------------------------------
 Preparação do ambiente de desenvolvimento da disciplina
+
+1. Verificar se você já tem o Java instalado (JVM)
+    - Abrir o terminal e executar "java -version" OU
+    - No windows, abrir o painel de controle e verificar se há o ícone do Java OU
+    - No Mac, abrir as "preferências de sistemas" e verificar se há o ícone do Java OU
+    - No Linux, via terminal, apenas
+    Se não tiver, baixar e instalar de: https://www.java.com/en/
+
+
+2. Antes de instalar qualquer IDE para desenvolvimento Java, instalar a JDK
+ - De: https://www.oracle.com/br/java/technologies/javase-downloads.html
+ Se for utilizar o Netbeans 8.2, instalar a JDK 8: https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html
+
+3. Baixar e instalar sua IDE de preferência. O professor utilizará o Netbeans
+ - Netbeans:
+  8.2: https://netbeans.org/downloads/old/8.2/ (versão Java EE)
+  12.2: https://netbeans.apache.org/download/index.html
+ - A instalação é simples e não requer nenhuma grande intervenção do usuário
+Obs.: Não instale o Glasfish (desmarque a opção)
