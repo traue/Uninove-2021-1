@@ -1,4 +1,4 @@
-## Gerenciamento de projetos em TI
+# Gerenciamento de projetos em TI
 ----
 
 
@@ -8,6 +8,6 @@ Todos os slides e materiais serão disponibilizados via Google Drive e Nearpod
 
 ----
 
-###Links importantes:
+## Links importantes:
 
  - [Critérios de avaliação](https://docs.google.com/document/d/1AdKMILmnX4WSP8zUVZGhUCMWDGhNpMxMFV-nWHQZckM/edit?usp=sharing)
