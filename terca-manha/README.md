@@ -11,7 +11,7 @@ Todos os slides e materiais serão disponibilizados via *Google Drive* e *Nearpo
 ## Links importantes:
 
  - [Critérios de avaliação](https://docs.google.com/document/d/1AdKMILmnX4WSP8zUVZGhUCMWDGhNpMxMFV-nWHQZckM/edit?usp=sharing)
- - [Pasta de slides da aula (PDF)](https://drive.google.com/drive/folders/16V0iNsZayeda7gE7XjRI0ist5oCE5T9s?usp=sharing)
+ - [Pasta de slides das aulas (PDF)](https://drive.google.com/drive/folders/16V0iNsZayeda7gE7XjRI0ist5oCE5T9s?usp=sharing)
 
 
 ----
