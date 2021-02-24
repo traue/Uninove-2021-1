@@ -1,0 +1,16 @@
+Como é a avaliação com o Prof. Traue
+
+ Se o processo de avaliação deste semestre for igual ao do semestre anterior, então o processo de avaliação é feito da seguinte forma:
+
+
+ NF = (0,6 * PROFESSOR) + (0,4 * INTEGRADA)
+
+   NF = Nota final
+   INTEGRADA = Uma prova que a coordenação marcará (próximo ao final do semestre)
+   PROFESSOR = Livre, ou seja, o professor aplica as atividades como bem entender e passa para a coordenação a nota
+
+ Como são feitas as avaliações deste professor:
+
+   Ao final de cada (depois da metade semestre) o professor passará um link de um FORM pra turma (via chat). Vocês terão uma semana para fazer.
+   Cada FORM tem 4 ou 5 questões de Java. Todas de múltipla escolha
+   Serão 4 a 6 atividades no total. A média delas + um EXTRA (de até 3 pontos) totalizará minha média.

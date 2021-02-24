@@ -1,0 +1,29 @@
+Preparação do ambiente de desenvolvimento
+
+1. Verificar se possui a JVM instalada
+  Windows: Abrir painel de controle e verificar se tem o "Java"
+  Mac: Abrir preferências de sistema e verificar se tem o "Java"
+  Linux: Abrir um terminal; "java -version" e verificar se retorna
+
+  Quem não tiver instalado, baixar de: https://www.java.com/en/
+
+Para usuários de Mac/Linux:
+  2. Instalação da JDK
+    Verificar se você já não possui a JDK instalada.
+    No terminal, rodar "javac -version"
+    Se não reconhecer, é preciso instalar a JDK
+    https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html
+
+Para usuários de Windows:
+  3. Instalar o Netbeans
+    De: https://www.oracle.com/technetwork/pt/java/javase/downloads/index.html
+
+
+
+4. Baixar Glassfish de https://javaee.github.io/glassfish/download
+  (versão Web profile)
+  Extrair em um local seguro (c:/ ....)
+  No Netbeans, guia "Serviço", clicar com o Bt. direito em servidores e "adicionar novo servidor"
+  Selecionar a pasta onde fora extraido o Glassfish que você baixou
+
+-----
