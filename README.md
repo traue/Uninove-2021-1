@@ -38,28 +38,28 @@
 
 
 - **Segunda**
-	- Manhã: CRIAR
-	- Noite: CRIAR
+	- Manhã: -
+	- Noite: -
 
 
 - **Terça**
-	- Manhã: CRIAR
-	- Noite: [Proj. de Desenvolvimento de aplicações multipltaformas](https://drive.google.com/drive/folders/1cRHnnWVHEkQajPhWla3drKxkC1FN719o?usp=sharing)
+	- Manhã: -
+	- Noite: [Proj. de Desenvolvimento de aplicações multipltaforma](https://drive.google.com/drive/folders/1cRHnnWVHEkQajPhWla3drKxkC1FN719o?usp=sharing)
 
 
 - **Quarta**
-	- Manhã: Interação Humano-Computador
-	- Noite: Aplicações Orientadas à Objetos
+	- Manhã: -
+	- Noite: [Proj. de Desenvolvimento de aplicações multipltaforma](https://drive.google.com/drive/folders/18CmgaURFqmhmdp31AayGtPmOt9f-TQ-V?usp=sharing)
 
 
 - **Quinta**
-	- Manhã: Programação Web
-	- Noite: Programação Visual
+	- Manhã: -
+	- Noite: [Proj. de Desenvolvimento de aplicações multipltaforma](https://drive.google.com/drive/folders/18CmgaURFqmhmdp31AayGtPmOt9f-TQ-V?usp=sharing)
 
 
 - **Sexta**
-	- Manhã: Qualidade de Software
-	- Noite: Programação Avançada em Orientação à Objetos
+	- Manhã: -
+	- Noite: -
 
 
 
