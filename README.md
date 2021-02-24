@@ -19,7 +19,7 @@
 
 
 - **Quarta**
-	- Manhã: Interação Humano-Computador
+	- Manhã: [Interação Humano-Computador](https://github.com/traue/Uninove-2021-1/tree/main/quarta-manha)
 	- Noite: Aplicações Orientadas à Objetos
 
 
