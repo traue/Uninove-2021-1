@@ -25,7 +25,7 @@
 
 - **Quinta**
 	- Manhã: [Programação Web](https://github.com/traue/Uninove-2021-1/tree/main/quinta-manha)
-	- Noite: Programação Visual
+	- Noite: [Programação Visual](https://github.com/traue/Uninove-2021-1/tree/main/quinta-noite)
 
 
 - **Sexta**
