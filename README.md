@@ -7,18 +7,14 @@
 ## Prof. Thiago Graziani Traue
 ###  Repositório de disciplinas
 ---
-
 * **Segunda**
   * Manhã: [Aplicações Orientadas à Objetos](https://github.com/traue/Uninove-2021-1/tree/main/segunda-manha "Repositório de segunda de manhã")
   * Noite: [Programação Avançada em Orientação à Objetos](https://github.com/traue/Uninove-2021-1/tree/main/segunda-noite "Repositório de segunda noite")
 
 
-
 * **Terça**
   * Manhã: [Gerência de projetos em TI](https://github.com/traue/Uninove-2021-1/tree/main/terca-manha)
   * Noite: [Aplicações Orientadas à Objetos](https://github.com/traue/Uninove-2021-1/tree/main/terca-noite)
-
-
 
 
 * **Quarta**
@@ -27,11 +23,9 @@
 
 
 
-
 * **Quinta**
   * Manhã: [Programação Web](https://github.com/traue/Uninove-2021-1/tree/main/quinta-manha)
   * Noite: [Programação Visual](https://github.com/traue/Uninove-2021-1/tree/main/quinta-noite)
-
 
 
 * **Sexta**
