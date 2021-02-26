@@ -12,23 +12,26 @@
   * Manhã: [Aplicações Orientadas à Objetos](https://github.com/traue/Uninove-2021-1/tree/main/segunda-manha "Repositório de segunda de manhã")
   * Noite: [Programação Avançada em Orientação à Objetos](https://github.com/traue/Uninove-2021-1/tree/main/segunda-noite "Repositório de segunda noite")
 
-<br>
+
 
 * **Terça**
   * Manhã: [Gerência de projetos em TI](https://github.com/traue/Uninove-2021-1/tree/main/terca-manha)
   * Noite: [Aplicações Orientadas à Objetos](https://github.com/traue/Uninove-2021-1/tree/main/terca-noite)
 
-<br>
+
+
 
 * **Quarta**
   * Manhã: [Interação Humano-Computador](https://github.com/traue/Uninove-2021-1/tree/main/quarta-manha)
   * Noite: [Aplicações Orientadas à Objetos](https://github.com/traue/Uninove-2021-1/tree/main/quarta-noite)
 
-<br>
+
+
 
 * **Quinta**
   * Manhã: [Programação Web](https://github.com/traue/Uninove-2021-1/tree/main/quinta-manha)
   * Noite: [Programação Visual](https://github.com/traue/Uninove-2021-1/tree/main/quinta-noite)
+
 
 
 * **Sexta**
