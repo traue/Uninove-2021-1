@@ -30,7 +30,7 @@
 
 * **Sexta**
 	* Manhã: [Qualidade de Software](https://github.com/traue/Uninove-2021-1/tree/main/sexta-manha)
-  * Noite: Programação Avançada em Orientação à Objetos
+  * Noite: [Programação Avançada em Orientação à Objetos])(https://github.com/traue/Uninove-2021-1/tree/main/sexta-noite)
 
 
 ----
@@ -60,7 +60,7 @@ Não necessariamente você é alunos de projeto deste professor.
 
 - **Sexta**
 	- Manhã: [Proj. em Gestão de sistemas computacionais](https://drive.google.com/drive/folders/1vmShHx35VjQk9vdgyerzV0TRiDB79c1S?usp=sharing)
-	- Noite: [Proj. prático em construção sistemas computacionais](https://github.com/traue/Uninove-2021-1/tree/main/sexta-noite)
+	- Noite: [Proj. prático em construção sistemas computacionais]()
 
 
 -----
