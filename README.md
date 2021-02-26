@@ -36,6 +36,7 @@
 ----
 ### Projetos - 2021.1
 
+Muita atenção no dia e turno de orientação de seu projeto co o Prof. Traue. Cuidado para não clicar em link de projeto errado. Verifique em sua "central do aluno" o dia exato de seu projeto com o professor. Não necessariamente você é alunos de projeto deste professor. 
 
 - **Segunda**
 	- Manhã: -
@@ -62,8 +63,5 @@
 	- Noite: -
 
 
-
-
-A orientação dos projetos é realizada via Google Drive. Você deve consultar o link de sua turma.
 
 Quaisquer dúvidas, entrar em contato com o Prof., através do e-mail institucional thiago.traue@...
