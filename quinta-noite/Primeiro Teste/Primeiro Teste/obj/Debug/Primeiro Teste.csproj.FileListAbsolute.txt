@@ -1,0 +1,10 @@
+C:\Users\ttrau\OneDrive\Uninove\2021.1\repositorio\quinta-noite\Primeiro Teste\Primeiro Teste\bin\Debug\Primeiro Teste.exe.config
+C:\Users\ttrau\OneDrive\Uninove\2021.1\repositorio\quinta-noite\Primeiro Teste\Primeiro Teste\bin\Debug\Primeiro Teste.exe
+C:\Users\ttrau\OneDrive\Uninove\2021.1\repositorio\quinta-noite\Primeiro Teste\Primeiro Teste\bin\Debug\Primeiro Teste.pdb
+C:\Users\ttrau\OneDrive\Uninove\2021.1\repositorio\quinta-noite\Primeiro Teste\Primeiro Teste\obj\Debug\Primeiro Teste.csprojAssemblyReference.cache
+C:\Users\ttrau\OneDrive\Uninove\2021.1\repositorio\quinta-noite\Primeiro Teste\Primeiro Teste\obj\Debug\Primeiro_Teste.Form1.resources
+C:\Users\ttrau\OneDrive\Uninove\2021.1\repositorio\quinta-noite\Primeiro Teste\Primeiro Teste\obj\Debug\Primeiro_Teste.Properties.Resources.resources
+C:\Users\ttrau\OneDrive\Uninove\2021.1\repositorio\quinta-noite\Primeiro Teste\Primeiro Teste\obj\Debug\Primeiro Teste.csproj.GenerateResource.cache
+C:\Users\ttrau\OneDrive\Uninove\2021.1\repositorio\quinta-noite\Primeiro Teste\Primeiro Teste\obj\Debug\Primeiro Teste.csproj.CoreCompileInputs.cache
+C:\Users\ttrau\OneDrive\Uninove\2021.1\repositorio\quinta-noite\Primeiro Teste\Primeiro Teste\obj\Debug\Primeiro Teste.exe
+C:\Users\ttrau\OneDrive\Uninove\2021.1\repositorio\quinta-noite\Primeiro Teste\Primeiro Teste\obj\Debug\Primeiro Teste.pdb
