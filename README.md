@@ -29,7 +29,7 @@
 
 
 - **Sexta**
-	- Manhã: Qualidade de Software
+	- Manhã: [Qualidade de Software](https://github.com/traue/Uninove-2021-1/tree/main/sexta-manha)
 	- Noite: Programação Avançada em Orientação à Objetos
 
 
