@@ -36,7 +36,9 @@
 ----
 ### Projetos - 2021.1
 
-Muita atenção no dia e turno de orientação de seu projeto co o Prof. Traue. Cuidado para não clicar em link de projeto errado. Verifique em sua "central do aluno" o dia exato de seu projeto com o professor. Não necessariamente você é alunos de projeto deste professor.
+Muita atenção no dia e turno de orientação de seu projeto com o Prof. Traue.
+Cuidado para não clicar em link de projeto errado. Verifique em sua "central do aluno" o dia exato de seu projeto com o professor.
+Não necessariamente você é alunos de projeto deste professor.
 
 - **Segunda**
 	- Manhã: Proj. de desenvolvimento de aplicações multipltaforma
