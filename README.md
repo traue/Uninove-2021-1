@@ -39,29 +39,28 @@
 Muita atenção no dia e turno de orientação de seu projeto co o Prof. Traue. Cuidado para não clicar em link de projeto errado. Verifique em sua "central do aluno" o dia exato de seu projeto com o professor. Não necessariamente você é alunos de projeto deste professor.
 
 - **Segunda**
-	- Manhã: -
-	- Noite: -
+	- Manhã: Proj. de desenvolvimento de aplicações multipltaforma
+	- Noite: Proj. prático de programação
 
 
 - **Terça**
-	- Manhã: -
+	- Manhã: Proj. de desenvolvimento de aplicações multipltaforma
 	- Noite: [Proj. de Desenvolvimento de aplicações multipltaforma](https://drive.google.com/drive/folders/1cRHnnWVHEkQajPhWla3drKxkC1FN719o?usp=sharing)
 
 
 - **Quarta**
-	- Manhã: -
 	- Noite: [Proj. de Desenvolvimento de aplicações multipltaforma](https://drive.google.com/drive/folders/18CmgaURFqmhmdp31AayGtPmOt9f-TQ-V?usp=sharing)
 
 
 - **Quinta**
-	- Manhã: -
 	- Noite: [Proj. de Desenvolvimento de aplicações multipltaforma](https://drive.google.com/drive/folders/18CmgaURFqmhmdp31AayGtPmOt9f-TQ-V?usp=sharing)
 
 
 - **Sexta**
-	- Manhã: -
-	- Noite: -
+	- Manhã: [Proj. em Gestão de sistemas computacionais](https://drive.google.com/drive/folders/1vmShHx35VjQk9vdgyerzV0TRiDB79c1S?usp=sharing)
+	- Noite: [Proj. prático em construção sistemas computacionais]
 
 
+-----
 
 Quaisquer dúvidas, entrar em contato com o Prof., através do e-mail institucional thiago.traue@...
