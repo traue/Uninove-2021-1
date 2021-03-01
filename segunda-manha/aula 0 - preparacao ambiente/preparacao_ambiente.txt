@@ -12,15 +12,37 @@ Preparação do ambiente de desenvolvimento da disciplina
  - Baixar de: https://www.oracle.com/br/java/technologies/javase-downloads.html
 
 
-3. Para essa disciplina, vamos utilizar o Netbeans.
-  Existem duas versões do Netbeans: 8.2 (última criada pela Oracle) e o Netbeans da fundação Apache
-  * Se você for utilizar o 8.2, faça o download da versão "Java EE", de https://netbeans.org/downloads/8.2/rc/
-  Se você for um usuário um pouco mais avançado, podes baixar o 12.2, de: https://netbeans.apache.org/download/index.html
+3. Instalar o Netbeans com JDK 8, de:
+ - https://www.oracle.com/technetwork/pt/java/javase/downloads/jdk-netbeans-jsp-3413153-ptb.html
 
-  --> A instalação é simples e não requer nenhuma grande intervenção do usuário
-  Se necessário, apenas localizar a instalação da JDK manualmente.
+4. Instalar o Plug-ing do JEE
+ - Com o Netbeans aberto, clicar em "ferramentas" -> "plugins".
+   Clicar na guia "plugins disponíveis"
+   Buscar por "Java EE Base"
+   Selecioná-lo e instalar normalmente
+
+   4.1 Testar
+    Clicar em "Arquivo" -> Novo projeto
+    Verificar se em "categoria" aparece a opção Java Web
+    Se sim, tudo ok
+
+5. Baixar o Glassfish
+    Entrar em: https://javaee.github.io/glassfish/download
+    Baixar a opção "web profile"
+    Extrair o Glassfish para uma pasta "segura" (exemplo: C:\glassfish5)
+    Ir na guia "serviços" do Netbeans, clicar com o Bt. direito em "Servidores"
+    clicar em Adicionar Servidores
+    Selecionar "Glassfish". Próximo. Escolher o caminho onde o Glassfish foi extraído
+    Clicar em próximo e finalizar.
+    Se houve problema de porta, refazer este processo trocando o "domain1" para "domain2"
+      Clicar em "default" (na linha da porta) e definir um porta diferente (exemplo 4849 e 8081)
+
+6. Configurar o JavDB do Glassfish
+   Na mesma aba "Serviços" do Netbeans, expandir "Bancos de Dados"
+   Clicar com o botão direito em "JavaDB". Selecionar "proprieddes"
 
 
+Feito isso, o ambiente de desenvolvimento está 100% pronto.
 
-
-------Paramos aqui, continuamos na semana vindoura ---
+Qualquer problema, por favor comunicar o professor através do e-mail:
+thiago.traue@uni9...
