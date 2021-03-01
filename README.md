@@ -41,12 +41,12 @@ Cuidado para não clicar em link de projeto errado. Verifique em sua "central do
 Não necessariamente você é alunos de projeto deste professor.
 
 - **Segunda**
-	- Manhã: Proj. de desenvolvimento de aplicações multipltaforma
+	- Manhã: [Proj. de desenvolvimento de aplicações multipltaforma](https://drive.google.com/drive/folders/1hV1Of4JG0rG3uVQ3npG5y315QdgKADU2?usp=sharing)
 	- Noite: Proj. prático de programação
 
 
 - **Terça**
-	- Manhã: Proj. de desenvolvimento de aplicações multipltaforma
+	- Manhã: [Proj. de desenvolvimento de aplicações multipltaforma](https://drive.google.com/drive/folders/1hV1Of4JG0rG3uVQ3npG5y315QdgKADU2?usp=sharing)
 	- Noite: [Proj. de Desenvolvimento de aplicações multipltaforma](https://drive.google.com/drive/folders/1cRHnnWVHEkQajPhWla3drKxkC1FN719o?usp=sharing)
 
 
