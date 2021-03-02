@@ -15,14 +15,5 @@ Preparação do ambiente de desenvolvimento da disciplina
     - No Linux, via terminal, apenas
     Se não tiver, baixar e instalar de: https://www.java.com/en/
 
-
-2. Antes de instalar qualquer IDE para desenvolvimento Java, instalar a JDK
- - De: https://www.oracle.com/br/java/technologies/javase-downloads.html
- Se for utilizar o Netbeans 8.2, instalar a JDK 8: https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html
-
-3. Baixar e instalar sua IDE de preferência. O professor utilizará o Netbeans
- - Netbeans:
-  8.2: https://netbeans.org/downloads/old/8.2/ (versão Java EE)
-  12.2: https://netbeans.apache.org/download/index.html
- - A instalação é simples e não requer nenhuma grande intervenção do usuário
-Obs.: Não instale o Glasfish (desmarque a opção)
+2. Baixar e instalar o Netbeans, de:
+    https://www.oracle.com/technetwork/pt/java/javase/downloads/jdk-netbeans-jsp-3413153-ptb.html
