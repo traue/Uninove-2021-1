@@ -60,7 +60,7 @@ Não necessariamente você é alunos de projeto deste professor.
 
 - **Sexta**
 	- Manhã: [Proj. em Gestão de sistemas computacionais](https://drive.google.com/drive/folders/1vmShHx35VjQk9vdgyerzV0TRiDB79c1S?usp=sharing)
-	- Noite: [Proj. prático em construção sistemas computacionais]()
+	- Noite: [Proj. prático em construção sistemas computacionais](https://drive.google.com/drive/folders/1GkMp8BqrnxAw8n-IObrcnVXOnL844meu?usp=sharing)
 
 
 -----
