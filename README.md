@@ -1,4 +1,4 @@
-<!-- <p align="center">
+<p align="center">
   <img src="http://traue.com.br/imgs/uninove_logo.jpeg" alt="Logo-Uninove" width="150px"/>
   <br>
   Universidade Nove de Julho
@@ -30,7 +30,7 @@
 
 * **Sexta**
 	* Manhã: [Qualidade de Software](https://github.com/traue/Uninove-2021-1/tree/main/sexta-manha)
-  * Noite: [Programação Avançada em Orientação à Objetos](https://github.com/traue/Uninove-2021-1/tree/main/sexta-noite)
+  * Noite: [Programação Avançada em Orientação à Objetos](https://github.com/traue/2021-1-sexta_noite)
 
 
 ----
@@ -65,9 +65,4 @@ Não necessariamente você é alunos de projeto deste professor.
 
 -----
 
-Quaisquer dúvidas, entrar em contato com o Prof., através do e-mail institucional thiago.traue@... -->
-
-
-# OS LINKS ESTÃO SENDO AJUSTADOS
-
-<br>
+Quaisquer dúvidas, entrar em contato com o Prof., através do e-mail institucional thiago.traue@...
