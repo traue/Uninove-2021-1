@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="http://traue.com.br/imgs/uninove_logo.jpeg" alt="Logo-Uninove" width="150px"/>
   <br>
   Universidade Nove de Julho
@@ -65,4 +65,9 @@ Não necessariamente você é alunos de projeto deste professor.
 
 -----
 
-Quaisquer dúvidas, entrar em contato com o Prof., através do e-mail institucional thiago.traue@...
+Quaisquer dúvidas, entrar em contato com o Prof., através do e-mail institucional thiago.traue@... -->
+
+
+# OS LINKS ESTÃO SENDO AJUSTADOS
+
+<br>
