@@ -35,10 +35,11 @@
 
 
 ----
-### Projetos - 2021.1
+
+## Projetos - 2021.1
 
 
-Para acessar os dados dos projetos orientados pelos Prof. Thiago G. Traue, clique [NESTE LINK](https://github.com/traue/Uninove-2021-1/wiki/2021.1-Projetos)
+Para acessar os dados dos projetos orientados pelo Prof. Thiago G. Traue, clique [NESTE LINK](https://github.com/traue/Uninove-2021-1/wiki/2021.1-Projetos)
 
 
 -----
