@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://traue.com.br/imgs/uninove_logo.jpeg" alt="Logo-Uninove" width="150px"/>
+  <img src="http://traue.com.br/imgs/logo_uninove.png" alt="Logo-Uninove" width="150px"/>
   <br>
   Universidade Nove de Julho
 </p>
@@ -8,59 +8,36 @@
 ###  Repositório de disciplinas
 ---
 * **Segunda**
-  * Manhã: [Aplicações Orientadas à Objetos](https://github.com/traue/Uninove-2021-1/tree/main/segunda-manha "Repositório de segunda de manhã")
-  * Noite: [Programação Avançada em Orientação à Objetos](https://github.com/traue/Uninove-2021-1/tree/main/segunda-noite "Repositório de segunda noite")
+  * Manhã: [Aplicações Orientadas à Objetos](https://github.com/traue/2021-1_segunda_manha)
+  * Noite: [Programação Avançada em Orientação à Objetos](https://github.com/traue/2021-1_terca_noite)
 
 
 * **Terça**
-  * Manhã: [Gerência de projetos em TI](https://github.com/traue/Uninove-2021-1/tree/main/terca-manha)
-  * Noite: [Aplicações Orientadas à Objetos](https://github.com/traue/Uninove-2021-1/tree/main/terca-noite)
+  * Manhã: [Gerência de projetos em TI](https://github.com/traue/Uninove-2021-1/wiki/2021-1---Ger%C3%AAncia-de-projetos-em-TI)
+  * Noite: [Aplicações Orientadas à Objetos](https://github.com/traue/2021-1_quarta_noite)
 
 
 * **Quarta**
-  * Manhã: [Interação Humano-Computador](https://github.com/traue/Uninove-2021-1/tree/main/quarta-manha)
-  * Noite: [Aplicações Orientadas à Objetos](https://github.com/traue/Uninove-2021-1/tree/main/quarta-noite)
+  * Manhã: [Interação Humano-Computador](https://github.com/traue/Uninove-2021-1/wiki/2021-1---Intera%C3%A7%C3%A3o-Humano-Computador)
+  * Noite: [Aplicações Orientadas à Objetos](https://github.com/traue/2021-1_quarta_noite)
 
 
 
 * **Quinta**
-  * Manhã: [Programação Web](https://github.com/traue/Uninove-2021-1/tree/main/quinta-manha)
-  * Noite: [Programação Visual](https://github.com/traue/Uninove-2021-1/tree/main/quinta-noite)
+  * Manhã: [Programação Web](https://github.com/traue/2021-1_quinta_manha)
+  * Noite: [Programação Visual](https://github.com/traue/2021-1_quinta_noite)
 
 
 * **Sexta**
-	* Manhã: [Qualidade de Software](https://github.com/traue/Uninove-2021-1/tree/main/sexta-manha)
-  * Noite: [Programação Avançada em Orientação à Objetos](https://github.com/traue/2021-1-sexta_noite)
+	* Manhã: [Qualidade de Software](https://github.com/traue/Uninove-2021-1/wiki/2021-1---Qualidade-de-Software)
+  * Noite: [Programação Avançada em Orientação à Objetos](https://github.com/traue/2021-1_sexta_noite)
 
 
 ----
 ### Projetos - 2021.1
 
-Muita atenção no dia e turno de orientação de seu projeto com o Prof. Traue.
-Cuidado para não clicar em link de projeto errado. Verifique em sua "central do aluno" o dia exato de seu projeto com o professor.
-Não necessariamente você é alunos de projeto deste professor.
 
-- **Segunda**
-	- Manhã: [Proj. de desenvolvimento de aplicações multipltaforma](https://drive.google.com/drive/folders/1hV1Of4JG0rG3uVQ3npG5y315QdgKADU2?usp=sharing)
-	- Noite: [Proj. prático de programação](https://drive.google.com/drive/folders/1rP16THDJlwBvr98p1mP2ATI01agQA0LX?usp=sharing)
-
-
-- **Terça**
-	- Manhã: [Proj. de desenvolvimento de aplicações multipltaforma](https://drive.google.com/drive/folders/1hV1Of4JG0rG3uVQ3npG5y315QdgKADU2?usp=sharing)
-	- Noite: [Proj. de Desenvolvimento de aplicações multipltaforma](https://drive.google.com/drive/folders/1cRHnnWVHEkQajPhWla3drKxkC1FN719o?usp=sharing)
-
-
-- **Quarta**
-	- Noite: [Proj. de Desenvolvimento de aplicações multipltaforma](https://drive.google.com/drive/folders/18CmgaURFqmhmdp31AayGtPmOt9f-TQ-V?usp=sharing)
-
-
-- **Quinta**
-	- Noite: [Proj. de Desenvolvimento de aplicações multipltaforma](https://drive.google.com/drive/folders/18CmgaURFqmhmdp31AayGtPmOt9f-TQ-V?usp=sharing)
-
-
-- **Sexta**
-	- Manhã: [Proj. em Gestão de sistemas computacionais](https://drive.google.com/drive/folders/1vmShHx35VjQk9vdgyerzV0TRiDB79c1S?usp=sharing)
-	- Noite: [Proj. prático em construção sistemas computacionais](https://drive.google.com/drive/folders/1GkMp8BqrnxAw8n-IObrcnVXOnL844meu?usp=sharing)
+Para saber mais sobre os projetos orientador pelos Prof. Thiago G. Traue, clique [neste link](https://github.com/traue/Uninove-2021-1/wiki/2021-1---Projetos)
 
 
 -----
