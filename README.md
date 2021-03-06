@@ -20,7 +20,7 @@
 
 
 * **Quarta**
-  * Manhã: [Interação Humano-Computador](https://github.com/traue/Uninove-2021-1/wiki/2021-1---Intera%C3%A7%C3%A3o-Humano-Computador)
+  * Manhã: [Interação Humano-Computador](https://github.com/traue/Uninove-2021-1/wiki/2021.1-Intera%C3%A7%C3%A3o-Humano-Computado)
   * Noite: [Aplicações Orientadas à Objetos](https://github.com/traue/2021-1_quarta_noite)
 
 
@@ -30,7 +30,7 @@
 
 
 * **Sexta**
-	* Manhã: [Qualidade de Software](https://github.com/traue/Uninove-2021-1/wiki/2021-1---Qualidade-de-Software)
+	* Manhã: [Qualidade de Software](https://github.com/traue/Uninove-2021-1/wiki/2021.1-Qualidade-de-Software)
   * Noite: [Programação Avançada em Orientação à Objetos](https://github.com/traue/2021-1_sexta_noite)
 
 
