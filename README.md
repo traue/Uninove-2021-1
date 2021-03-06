@@ -24,7 +24,6 @@
   * Noite: [Aplicações Orientadas à Objetos](https://github.com/traue/2021-1_quarta_noite)
 
 
-
 * **Quinta**
   * Manhã: [Programação Web](https://github.com/traue/2021-1_quinta_manha)
   * Noite: [Programação Visual](https://github.com/traue/2021-1_quinta_noite)
@@ -39,9 +38,9 @@
 ### Projetos - 2021.1
 
 
-Para saber mais sobre os projetos orientador pelos Prof. Thiago G. Traue, clique [neste link](https://github.com/traue/Uninove-2021-1/wiki/2021-1---Projetos)
+Para acessar os dados dos projetos orientados pelos Prof. Thiago G. Traue, clique [NESTE LINK](https://github.com/traue/Uninove-2021-1/wiki/2021.1-Projetos)
 
 
 -----
 
-Quaisquer dúvidas, entrar em contato com o Prof., através do e-mail institucional thiago.traue@...
+Quaisquer dúvidas, entrar em contato com o Prof. através do e-mail institucional thiago.traue@...
