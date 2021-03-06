@@ -1,12 +1,14 @@
 <p align="center">
   <img src="http://traue.com.br/imgs/logo_uninove.png" alt="Logo-Uninove" width="150px"/>
   <br>
-  Universidade Nove de Julho
 </p>
 
 ## Prof. Thiago Graziani Traue
-###  Repositório de disciplinas
+###  Repositório de disciplinas - Uninove
+
 ---
+
+
 * **Segunda**
   * Manhã: [Aplicações Orientadas à Objetos](https://github.com/traue/2021-1_segunda_manha)
   * Noite: [Programação Avançada em Orientação à Objetos](https://github.com/traue/2021-1_segunda_noite)
