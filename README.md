@@ -21,12 +21,12 @@
 
 * **Quarta**
   * Manhã: [Interação Humano-Computador](https://github.com/traue/Uninove-2021-1/wiki/2021.1-Intera%C3%A7%C3%A3o-Humano-Computado)
-  * Noite: [Aplicações Orientadas à Objetos](https://github.com/traue/2021-1_quarta_noite)
+  * Noite: [Computação Móvel](https://github.com/traue/2021-1_quarta_noite)
 
 
 * **Quinta**
   * Manhã: [Programação Web](https://github.com/traue/2021-1_quinta_manha)
-  * Noite: [Programação Visual](https://github.com/traue/2021-1_quinta_noite)
+  * Noite: [Desenvolvimento de aplicativos móveis híbridos](https://github.com/traue/2021-1_quinta_noite)
 
 
 * **Sexta**
