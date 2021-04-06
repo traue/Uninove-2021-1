@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://traue.com.br/imgs/logo_uninove.png" alt="Logo-Uninove" width="150px"/>
+  <img src="https://traue.com.br/imgs/logo_uninove.png" alt="Logo-Uninove" width="150px"/>
   <br>
 </p>
 
