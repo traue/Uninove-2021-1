@@ -6,8 +6,7 @@
 </p>
 
 
-# Repositório de disciplinas - Uninove
-## Prof. Thiago Graziani Traue
+# Repositórios do Prof. Thiago Graziani Traue
 
 
 ***
