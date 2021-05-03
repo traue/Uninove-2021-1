@@ -1,12 +1,14 @@
 <p align="center">
-  <img src="https://traue.com.br/imgs/logo_uninove.png" alt="Logo-Uninove" width="150px"/>
+  <img src="https://traue.com.br/imgs/logo_uninove.png" alt="Logo-Uninove" width="100px"/>
   <br>
 </p>
 
-## Prof. Thiago Graziani Traue
-###  Repositório de disciplinas - Uninove
+# Prof. Thiago Graziani Traue
+##  Repositório de disciplinas - Uninove
 
----
+***
+
+## Disciplinas regulares do professor:
 
 
 * **Segunda**
@@ -34,14 +36,14 @@
   * Noite: [Programação Avançada em Orientação à Objetos](https://github.com/traue/2021-1_sexta_noite)
 
 
-----
+***
 
-## Projetos - 2021.1
-
-
-Para acessar os dados dos projetos orientados pelo Prof. Thiago G. Traue, clique [NESTE LINK](https://github.com/traue/Uninove-2021-1/wiki/2021.1-Projetos)
+## Projetos orientados pelo professor
 
 
------
+Para acessar os projetos orientados pelo Prof. Thiago G. Traue, [CLIQUE AQUI](https://github.com/traue/Uninove-2021-1/wiki/2021.1-Projetos)
+
+
+***
 
 Quaisquer dúvidas, entrar em contato com o Prof. através do e-mail institucional thiago.traue@...
