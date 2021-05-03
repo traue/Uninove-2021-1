@@ -7,7 +7,7 @@
 </p>
 
 
-# Repositórios do Prof. Thiago Graziani Traue
+## Repositórios do Prof. Thiago Graziani Traue
 
 
 ***
