@@ -46,7 +46,7 @@
 ## **PROJETOS** orientados:
 
 
-Para acessar os projetos orientados pelo Prof. Thiago G. Traue, **[CLIQUE AQUI](https://github.com/traue/Uninove-2021-1/wiki/2021.1-Projetos)**
+Para acessar os projetos orientados pelo Prof. Thiago G. Traue, [**CLIQUE AQUI**](https://github.com/traue/Uninove-2021-1/wiki/2021.1-Projetos)
 
 
 ***
