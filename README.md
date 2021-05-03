@@ -1,14 +1,19 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 <p align="center">
   <img src="https://traue.com.br/imgs/logo_uninove.png" alt="Logo-Uninove" width="100px"/>
   <br>
 </p>
 
-# Prof. Thiago Graziani Traue
-##  Repositório de disciplinas - Uninove
+
+# Repositório de disciplinas - Uninove
+## Prof. Thiago Graziani Traue
+
 
 ***
 
-## Disciplinas regulares do professor:
+
+## Disciplinas regulares:
 
 
 * **Segunda**
