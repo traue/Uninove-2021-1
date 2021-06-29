@@ -10,4 +10,4 @@
 ## Repositórios do Prof. Thiago Graziani Traue
 
 
-### As disciplinas de 2021.2 serão postadas aqui, em breve. ❤️
+### As disciplinas de 2021.1 estão encerradas. Qualquer coisa, não deixe de contatar o professor :D ❤️
